@@ -1,3 +1,0 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (PizzaStoreFactoryMethod.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  PizzaTestDrive.cpp
-  PizzaStoreFactoryMethod.vcxproj -> D:\Document\HCMUS_FIT\LAPTRINHHUONGDOITUONG\AbstractFactory\Implement\PizzaStore\Debug\ii_PizzaStoreFactoryMethod.exe
